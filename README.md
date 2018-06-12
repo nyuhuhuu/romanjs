@@ -4,4 +4,4 @@
 
 # How to run tests
 
-`./node_modules/.bin/mocha`
+`npm test`
