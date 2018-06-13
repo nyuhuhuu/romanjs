@@ -4,4 +4,6 @@
 
 # How to run tests
 
-`npm test`
+Run `npm test` to run the whole test suite.
+
+Use `npm test -- -g "pattern"` to only run tests matching the pattern.
